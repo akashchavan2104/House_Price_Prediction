@@ -58,4 +58,4 @@ function onPageLoad() {
       }
   });
 }
-
+window.onload = onPageLoad;
